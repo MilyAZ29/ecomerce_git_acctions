@@ -96,4 +96,4 @@ jobs:
           echo Mostrando los ultimos logs de la aplicacion:
           docker logs --tail 100 %APP_CONTAINER_NAME%
           echo Despliegue local completado exitosamente.
-Mostrando main_1jsy6miluj.txt
+
